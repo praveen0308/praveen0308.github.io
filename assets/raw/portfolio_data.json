@@ -1,0 +1,297 @@
+{
+  "name": "Praveen Yadav",
+  "position": "Software Developer",
+  "avatar": "https://as2.ftcdn.net/v2/jpg/02/44/42/79/1000_F_244427911_aoHHulebtYy4wLpncBBuWqCTNFKolcCB.jpg",
+  "resume_link": "",
+  "socials": [
+    {
+      "id": "linkedin",
+      "name": "LinkedIn",
+      "icon": "https://encrypted-tbn0.gstatic.comimages?q=tbn:ANd9GcSOZdMC_FB3iUt9yQZujx9L8Etp5FdbP75UJQ&s",
+      "link": "xyz.com",
+      "order": 0
+    }
+  ],
+  "sections": [
+    {
+      "section_id": "about",
+      "name": "About",
+      "description": "",
+      "order": 1,
+      "is_visible": true,
+      "data": {
+        "title": "Im Praveen Yadav\nFull Stack Developer",
+        "subtitle": "Accomplished software developer having 3 years+ experience. Have worked on 20+ realtime applications.",
+        "profile_image": "https://as2.ftcdn.net/v2/jpg/02/44/42/79/1000_F_244427911_aoHHulebtYy4wLpncBBuWqCTNFKolcCB.jpg"
+      }
+    },
+    {
+      "section_id": "education",
+      "name": "Education",
+      "description": "Showcases my education background",
+      "order": 2,
+      "is_visible": true,
+      "data": [
+        {
+          "university": "Vivekanand Education Society's Institute Of Technology (VESIT), Mumbai",
+          "course": "Master Of Computer Application (MCA)",
+          "start": "Dec 2021",
+          "end": "Jul 2023",
+          "result": "CGPI: 8.91",
+          "coursework": ""
+        },
+        {
+          "university": "Ramnarain Ruia College, Mumbai",
+          "course": "Bachelor of Science in Computer Science (B.Sc. CS)",
+          "start": "Jun 2018",
+          "end": "Jul 2021",
+          "result": "CGPA: 8.60",
+          "coursework": ""
+        },
+        {
+          "university": "Ramniranjan Jhunjhunwala College, Mumbai",
+          "course": "Higher Secondary School Certificate (HSC) - Science",
+          "start": "Jun 2016",
+          "end": "Jun 2018",
+          "result": "Percentage: 82.62",
+          "coursework": ""
+        }
+      ]
+    },
+    {
+      "section_id": "skills",
+      "name": "Skills",
+      "description": "This sections showcases the skills and technology knowledge I have expertise in.",
+      "order": 3,
+      "is_visible": true,
+      "data": [
+        {
+          "name": "Languages",
+          "items": [
+            {
+              "image": "images/dart.png",
+              "name": "Dart",
+              "order": 0
+            },
+            {
+              "image": "images/java.png",
+              "name": "Java",
+              "order": 1
+            },
+            {
+              "image": "images/kotlin.png",
+              "name": "Kotlin",
+              "order": 2
+            },
+            {
+              "image": "images/javascript.png",
+              "name": "Javascript",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "name": "Frontend",
+          "items": [
+            {
+              "image": "images/android.png",
+              "name": "Android",
+              "order": 0
+            },
+            {
+              "image": "images/flutter.png",
+              "name": "Flutter",
+              "order": 1
+            },
+            {
+              "image": "images/react.png",
+              "name": "React",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "name": "Backend",
+          "items": [
+            {
+              "image": "images/spring.png",
+              "name": "Spring",
+              "order": 0
+            },
+            {
+              "image": "images/spring-boot.png",
+              "name": "Springboot",
+              "order": 1
+            },
+            {
+              "image": "images/node.png",
+              "name": "Node JS",
+              "order": 2
+            },
+            {
+              "image": "images/fast-api.png",
+              "name": "Fast API",
+              "order": 3
+            }
+          ]
+        },
+        {
+          "name": "Database",
+          "items": [
+            {
+              "image": "images/mysql.png",
+              "name": "MySQL",
+              "order": 0
+            },
+            {
+              "image": "images/postgres.png",
+              "name": "PostgreSQL",
+              "order": 1
+            },
+            {
+              "image": "images/mongodb.png",
+              "name": "MongoDB",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "name": "Cloud",
+          "items": [
+            {
+              "image": "images/aws.png",
+              "name": "AWS",
+              "order": 0
+            },
+            {
+              "image": "images/gcp.png",
+              "name": "GCP",
+              "order": 1
+            },
+            {
+              "image": "images/firebase.png",
+              "name": "Firebase",
+              "order": 2
+            }
+          ]
+        },
+        {
+          "name": "Others",
+          "items": [
+            {
+              "image": "images/docker.png",
+              "name": "Docker",
+              "order": 0
+            },
+            {
+              "image": "images/kubernetes.png",
+              "name": "Kubernetes",
+              "order": 1
+            },
+            {
+              "image": "images/git-actions.png",
+              "name": "Git Actions",
+              "order": 2
+            },
+            {
+              "image": "images/ci-cd.png",
+              "name": "CI/CD",
+              "order": 2
+            },
+            {
+              "image": "images/kafka.png",
+              "name": "Kafka",
+              "order": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "section_id": "experience",
+      "name": "Work Experience",
+      "description": "This section showcase my work experience in which I have worked for the different organization as a part-time or fulltime employee.",
+      "order": 4,
+      "is_visible": true,
+      "data": [
+        {
+          "organization": "N. A. Sportz Interactive Pvt. Ltd.",
+          "role": "Associate - Development(Mobile)",
+          "start": "FEB 2023",
+          "end": "JUN 2024",
+          "description": "Lead Android Developer for Knight Club project with 100K+ downloads on Google Play Store.\n- Achieved an impressive 99.6% crash-free rate through effective development and debugging strategies.\n- Implemented and customized unique themes for four international teams within the Knight Club project, elevating user experience and engagement while maintaining seamless functionality across diverse userbase.",
+          "position": "Fulltime"
+        },
+        {
+          "organization": "Proffus Pvt. Ltd.",
+          "role": "Mobile Developer",
+          "start": "SEP 2021",
+          "end": "APR 2022",
+          "description": "Worked on E-Commerce, CRM and Hybrid applications with multiple stakeholders.\n- Closely worked with UI Designers, API Developers and Clients to deliver desired applications.\n- Developed and published applications on Google Play Store.",
+          "position": "Fulltime"
+        },
+        {
+          "organization": "Sanklan Ventures Pvt. Ltd.",
+          "role": "Android Developer",
+          "start": "JUL 2021",
+          "end": "SEP 2021",
+          "description": "Built 2D Ludo multi-player game using Android SDK.\n- Explored Android Canvas and OpenGl library for 2D drawing.\n- Translated given UI into real working game.",
+          "position": "Fulltime"
+        },
+        {
+          "organization": "JMM Infotech Pvt. Ltd.",
+          "role": "Mobile Developer - Part Time",
+          "start": "JUN 2020",
+          "end": "JUN 2021",
+          "description": "Built applications using Android and Flutter SDK.\n- Worked on multi-modular applications and successfully integrated payment gateway.\n- Developed and published applications on Google Play Store.",
+          "position": "Fulltime"
+        }
+      ]
+    },
+    {
+      "section_id": "projects",
+      "name": "Projects",
+      "description": "This section showcases work/projects I have done",
+      "order": 5,
+      "is_visible": true,
+      "categories": [
+        "All",
+        "Web",
+        "Mobile",
+        "MERN",
+        "Java",
+        "Games"
+
+      ],
+      "data": [
+        {
+          "name": "HelpFeed - Food Donation Application",
+          "description": "HelpFeed is a trusted app designed to connect Donors with the NGOs for the best possible help. This makes it super easy for Donors to help with their donations for the NGOs. NGOS can consult the Admin or the Donors for the Food help and Delivery. Donors can register themselves in this app to donate and provide proper legal details about the donation structure. It helps link those who need quick food assistance, no matter where they are. Additionally, it allows to locate the entire Donation, NGOs help structure on the maps. Mainly only information is exchanged.",
+          "assets": [
+            "https://user-images.githubusercontent.com/64425296/211208514-792cd8a6-3f86-487b-99e9-319662669a0e.jpeg",
+            "https://user-images.githubusercontent.com/64425296/211208518-c54f9934-89a9-4c26-97da-d457ecf9561f.png",
+            "https://user-images.githubusercontent.com/64425296/211208518-c54f9934-89a9-4c26-97da-d457ecf9561f.png",
+            "https://user-images.githubusercontent.com/64425296/211208521-f250c4e3-b30c-4e40-8333-62dbae13e5fc.jpeg"
+          ],
+          "src_link": "https://github.com/praveen0308/helpfeed2",
+          "live_link": "",
+          "duration": "Sep 2022 - Oct 2022",
+          "tags": "#flutter,#firebase,#dart,#bloc",
+          "category": "Mobile"
+        }
+      ]
+    },
+    {
+      "section_id": "contact",
+      "name": "Contact",
+      "description": "This section showcases contact details",
+      "order": 6,
+      "is_visible": true,
+      "data": {
+        "phone": "+91 9699960540",
+        "email": "yadavpravin0308@gmail.com",
+        "location": "Mumbai, India"
+      }
+    }
+  ]
+}
