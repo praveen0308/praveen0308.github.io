@@ -56,6 +56,14 @@
           "end": "Jun 2018",
           "result": "Percentage: 82.62",
           "coursework": ""
+        },
+        {
+          "university": "Yogiraj Shree Krishna Vidyalaya, Mumbai",
+          "course": "Secondary School Certificate (SSC) - Hindi",
+          "start": "Jun 2015",
+          "end": "Jun 2016",
+          "result": "Percentage: 89.20",
+          "coursework": ""
         }
       ]
     },
@@ -256,13 +264,30 @@
       "order": 5,
       "is_visible": true,
       "categories": [
-        "All",
-        "Web",
-        "Mobile",
-        "MERN",
-        "Java",
-        "Games"
-
+        {
+          "title": "All",
+          "id": "all"
+        },
+        {
+          "title": "Web",
+          "id": "web"
+        },
+        {
+          "title": "Mobile",
+          "id": "mobile"
+        },
+        {
+          "title": "MERN",
+          "id": "mern"
+        },
+        {
+          "title": "Java",
+          "id": "java"
+        },
+        {
+          "title": "Games",
+          "id": "games"
+        }
       ],
       "data": [
         {
@@ -278,7 +303,7 @@
           "live_link": "",
           "duration": "Sep 2022 - Oct 2022",
           "tags": "#flutter,#firebase,#dart,#bloc",
-          "category": "Mobile"
+          "category": "mobile"
         }
       ]
     },
