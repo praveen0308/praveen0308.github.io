@@ -1,7 +1,7 @@
 {
   "name": "Praveen Yadav",
   "position": "Software Developer",
-  "avatar": "https://as2.ftcdn.net/v2/jpg/02/44/42/79/1000_F_244427911_aoHHulebtYy4wLpncBBuWqCTNFKolcCB.jpg",
+  "avatar": "https://firebasestorage.googleapis.com/v0/b/portfolio-11f60.appspot.com/o/img_avatar.png?alt=media&token=825479fe-9925-4161-bf7b-220296297d98",
   "resume_link": "",
   "socials": [
     {
@@ -20,9 +20,10 @@
       "order": 1,
       "is_visible": true,
       "data": {
-        "title": "Im Praveen Yadav\nFull Stack Developer",
+        "title_1": "I'm Praveen Yadav",
+        "title_2": "Full Stack Developer",
         "subtitle": "Accomplished software developer having 3 years+ experience. Have worked on 20+ realtime applications.",
-        "profile_image": "https://as2.ftcdn.net/v2/jpg/02/44/42/79/1000_F_244427911_aoHHulebtYy4wLpncBBuWqCTNFKolcCB.jpg"
+        "profile_image": "https://firebasestorage.googleapis.com/v0/b/portfolio-11f60.appspot.com/o/img_about_profile.png?alt=media&token=891cbf35-7c6b-4e03-956f-b9a2e38623c6"
       }
     },
     {
@@ -219,7 +220,7 @@
           "role": "Associate - Development(Mobile)",
           "start": "FEB 2023",
           "end": "JUN 2024",
-          "description": "Lead Android Developer for Knight Club project with 100K+ downloads on Google Play Store.\n- Achieved an impressive 99.6% crash-free rate through effective development and debugging strategies.\n- Implemented and customized unique themes for four international teams within the Knight Club project, elevating user experience and engagement while maintaining seamless functionality across diverse userbase.",
+          "description": "- Lead Android Developer for Knight Club project with 100K+ downloads on Google Play Store.\n- Achieved an impressive 99.6% crash-free rate through effective development and debugging strategies.\n- Implemented and customized unique themes for four international teams within the Knight Club project, elevating user experience and engagement while maintaining seamless functionality across diverse userbase.",
           "position": "Fulltime"
         },
         {
@@ -227,7 +228,7 @@
           "role": "Mobile Developer",
           "start": "SEP 2021",
           "end": "APR 2022",
-          "description": "Worked on E-Commerce, CRM and Hybrid applications with multiple stakeholders.\n- Closely worked with UI Designers, API Developers and Clients to deliver desired applications.\n- Developed and published applications on Google Play Store.",
+          "description": "- Worked on E-Commerce, CRM and Hybrid applications with multiple stakeholders.\n- Closely worked with UI Designers, API Developers and Clients to deliver desired applications.\n- Developed and published applications on Google Play Store.",
           "position": "Fulltime"
         },
         {
@@ -235,7 +236,7 @@
           "role": "Android Developer",
           "start": "JUL 2021",
           "end": "SEP 2021",
-          "description": "Built 2D Ludo multi-player game using Android SDK.\n- Explored Android Canvas and OpenGl library for 2D drawing.\n- Translated given UI into real working game.",
+          "description": "- Built 2D Ludo multi-player game using Android SDK.\n- Explored Android Canvas and OpenGl library for 2D drawing.\n- Translated given UI into real working game.",
           "position": "Fulltime"
         },
         {
@@ -243,7 +244,7 @@
           "role": "Mobile Developer - Part Time",
           "start": "JUN 2020",
           "end": "JUN 2021",
-          "description": "Built applications using Android and Flutter SDK.\n- Worked on multi-modular applications and successfully integrated payment gateway.\n- Developed and published applications on Google Play Store.",
+          "description": "- Built applications using Android and Flutter SDK.\n- Worked on multi-modular applications and successfully integrated payment gateway.\n- Developed and published applications on Google Play Store.",
           "position": "Fulltime"
         }
       ]
